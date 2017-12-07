@@ -43,14 +43,14 @@
     /*@include rounded(100px);*//* crops in a circle */
 
     @include media($medium) {
-      width: 150px;
-      height: 150px;
+      width: 400px;
+      height: 180px;
      /* @include rounded(150px);*//* crops in a circle */
     }
 
     @include media($large) {
-      width: 200px;
-      height: 200px;
+      width: 800px;
+      height: 3600px;
       /*@include rounded(200px); *//* crops in a circle */
     }
   }
