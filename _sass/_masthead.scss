@@ -50,7 +50,7 @@
 
     @include media($large) {
       width: 800px;
-      height: 3600px;
+      height: 360px;
       /*@include rounded(200px); *//* crops in a circle */
     }
   }
